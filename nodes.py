@@ -15,9 +15,7 @@ knowledge_base = {
 def agent_node(state):
 
     print("Agent")
-    return {
-        "route": "test"
-    }
+    return { }
 
 def router_node(state):
 
